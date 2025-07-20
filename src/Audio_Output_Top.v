@@ -1,8 +1,6 @@
 /*
  * Audio_Output_Top
  * ----------------
- * Bruce Chen ( Student ID: 201413670 )
- * ----------------
  * Description: 
  * This module provides the Top Level file for audio output functionality 
  * ----------------

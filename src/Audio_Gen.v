@@ -1,8 +1,6 @@
 /*
  * Audio_Gen
  * ----------------
- * Bruce Chen ( Student ID: 201413670 )
- * ----------------
  * Description: 
  * This module provides the DSP / PCM Audio Interface 
  * Receives 12MHz clock and generates sample rate 48kSps 

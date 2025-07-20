@@ -1,8 +1,6 @@
 /*
  * i2c Interface
  * ----------------
- * Bruce Chen ( Student ID: 201413670 )
- * ----------------
  * Description: 
  * This module provides the Inter-Integrated Circuit (I2C) interface which defines the 
  * Serial Communication Protocol between the FPGA and WM7831 Audio Codec
